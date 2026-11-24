@@ -5,7 +5,7 @@
 ---
 
 ## The Problem
-Modern database tools (like AWS or Azure) assume computers are always connected to the internet. However, high-security environments—such as defense contractors, banks, and industrial edge facilities—operate on **"air-gapped"** networks (computers strictly disconnected from the internet for security). 
+Modern database tools (like AWS or Azure) assume computers are always connected to the internet. However, high-security environments —such as banks, and industrial edge facilities— operate on **"air-gapped"** networks (computers strictly disconnected from the internet for security). 
 
 When software engineers in these restricted environments need to move, clone, or back up complex databases, standard internet-dependent tools fail, forcing them to use risky, manual processes.
 
